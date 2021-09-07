@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Tanvir Salehin
-- 👀 I’m interested in Mathematics , Games , Video Editing , Animations using Manim etc.
-- 🌱 I’m currently learning Calculus , Python , C.
-- 💞️ I’m looking to collaborate on N/A
+- 👋 Hi, I’m Tanvir Salehin.
+- 👀 I’m interested in Mathematics, Web Development, Video Editing, Animations using Manim etc.
+- 🌱 I’m currently learning HTML, JavaScript, C++, Python.
 - 📫 How to reach me ->
 e-mail : tanvirsalehin2988@gmail.com
 - You can take a look at my youtube channel ->
